@@ -29,16 +29,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Versionamiento en GIT/GITHUB
 
-'echo "# Proyecto_MEAN_SportsStore" >> README.md
-git init
-git status
-#git add README.md
-git add .
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/xandercj/Proyecto_MEAN_SportsStore.git
-git push -u origin main
+`echo "# Proyecto_MEAN_SportsStore" >> README.md`
+`git init`
+`git status`
+`#git add README.md`
+`git add .`
+`git commit -m "first commit"`
+`git branch -M main`
+`git remote add origin https://github.com/xandercj/Proyecto_MEAN_SportsStore.git`
+`git push -u origin main`
 
-Borrar versionamiento en git
-rm -rf .git
-'
+`Borrar versionamiento en git`
+`rm -rf .git`
